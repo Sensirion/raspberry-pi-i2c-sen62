@@ -9,7 +9,7 @@ Click [here](https://sensirion.com/sen6x-air-quality-sensor-platform) to learn m
 
 
 
-The default I²C address of [SEN62](https://www.sensirion.com/products/catalog/SEN62) is **0x6B**.
+The default I²C address of [SEN62](https://www.sensirion.com/products/catalog/SEN62) is **0x6b**.
 
 
 
