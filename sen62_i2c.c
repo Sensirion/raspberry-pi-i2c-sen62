@@ -3,7 +3,7 @@
  *
  * Generator:     sensirion-driver-generator 1.7.0
  * Product:       sen62
- * Model-Version: 1.2.0
+ * Model-Version: 1.2.1
  */
 /*
  * Copyright (c) 2026, Sensirion AG
